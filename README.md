@@ -60,4 +60,4 @@ This policy may be updated at any time. Any changes will be reflected by updatin
 
 8. Contact
 
-If you have questions about this Privacy Policy, please contact the administrators of the Nexus Hub Discord server.
+If you have questions about this Privacy Policy, please contact the administrators of the [Nexus Hub Discord server](https://discord.gg/4nvhEDFZZ3).
