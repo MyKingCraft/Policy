@@ -1,4 +1,4 @@
-# Privacy Policy for Grass Discord Bot
+Privacy Policy for Grass Discord Bot
 
 Last Updated: March 11, 2026
 
@@ -6,7 +6,7 @@ Last Updated: March 11, 2026
 
 This Privacy Policy explains how the Discord bot Grass collects, uses, and protects information when used in the Nexus Hub.
 
-This bot is private and cannot be invited to other servers. It only operates inside the Nexus Hub Discord server.
+This bot is private and cannot be invited to other servers. It only operates inside the [Nexus Hub Discord server](https://discord.gg/4nvhEDFZZ3).
 
 By interacting with the bot, users agree to this privacy policy.
 
